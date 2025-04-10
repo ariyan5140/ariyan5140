@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhammadhridoye" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadhridoye?logo=twitter&style=for-the-badge" alt="muhammadhridoye" /></a> </p>
 
-- 🔭 I’m currently working on [Muhammad Hridoye](T.me/bdislamiccyber)
+- 🔭 I’m currently working on [https://biolinks.com/hridoye](T.me/bdislamiccyber)
 
 - 👨‍💻 All of my projects are available at [MUHAMMAD HRIDOYE](MUHAMMAD HRIDOYE)
 
